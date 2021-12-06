@@ -1,0 +1,43 @@
+div{
+  font-size:  40px;
+}
+header{
+  background-color: #B91646;
+}
+body{
+    text-align: center;
+    background-image:url("mb5e.jpg");
+    background-colo: #B91646;
+    color: white;
+    }
+    footer{
+    background-color: #B91646;
+  }
+.kp {font-family: 'Dancing Script', sans-serif;
+    font-size: 90% ;
+    color: black ;
+}
+h2{
+  font-size:1.4rem ;
+  color: black;
+}
+h1{
+  font-size: 50% ;
+  color: white;
+}
+h4{
+  font-size: 50% ;s
+  color: #B91646;
+}
+.DJ {
+  margin-top: 5%;
+  margin-right: 10%;
+  margin-left:10%;
+  background-image:url("pp122.jpg");
+  height: 30%;
+  border: 5px solid white;
+  border-radius: 8px;
+}
+.DJ button{
+  align-items: center;
+}
