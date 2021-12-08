@@ -1,0 +1,22 @@
+header{
+  background-color: #71DFE7;
+}
+body{
+    text-align: center;
+    background-image:url("kp.jpg");
+    color: white;
+    }
+footer{
+    background-color: #71DFE7;
+  }
+.kp {font-family: 'Dancing Script', sans-serif;
+    font-size: 90% ;
+}
+li{
+  color:black;
+  font-size:19px;
+}
+.HR{
+  font-size:40px;
+  color:purple;
+}
